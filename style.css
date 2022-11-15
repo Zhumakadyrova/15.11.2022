@@ -16,3 +16,9 @@
   float: right;
   margin: 5px;
 }
+.button-1{
+  background-color: aqua;
+  padding: 20px;
+  margin: 30px 20px;
+  border-radius: 20px;
+}
