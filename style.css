@@ -11,3 +11,8 @@
   border: 3px solid brown;
  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.flag{
+  width: 200px;
+  float: right;
+  margin: 5px;
+}
