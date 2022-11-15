@@ -21,4 +21,10 @@
   padding: 20px;
   margin: 30px 20px;
   border-radius: 20px;
+  transition-duration: 500ms;
+  transition-timing-function: ease-in-out;
+  transition-delay: 0;
+}
+.button-1:hover{
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.559);
 }
